@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mlu:home|Door43 (mlu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mlu|d43-mlu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mlu/archive/master.zip|d43-mlu.zip]]
+
+**Recent Changes**
+{{changes>ns = mlu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mlu|Ethnologue data]]
+
